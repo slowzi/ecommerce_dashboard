@@ -2,7 +2,6 @@
 from babel.numbers import format_currency
 from streamlit_lottie import st_lottie
 import matplotlib.pyplot as plt
-import plotly.express as px
 import streamlit as st
 import seaborn as sns
 import pandas as pd
