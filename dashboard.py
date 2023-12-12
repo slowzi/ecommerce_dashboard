@@ -7,6 +7,7 @@ import streamlit as st
 import seaborn as sns
 import pandas as pd
 import requests
+import babel
 import json
 
 # SET PAGE AND THEME
